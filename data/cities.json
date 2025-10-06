@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Malagon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-05T19:36:41.672Z",
+      "notes": "",
+      "position": {
+        "lat": "39.19820534889482",
+        "lng": "-4.020996093750001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Olivenza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-03T21:14:13.813Z",
+      "notes": "",
+      "position": {
+        "lat": "38.653818174004606",
+        "lng": "-7.161026189682714"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Setiles",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-04T05:54:37.068Z",
+      "notes": "",
+      "position": {
+        "lat": "40.74924616415342",
+        "lng": "-1.6005709932211758"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Nizhyn",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-10-04T05:54:46.947Z",
+      "notes": "",
+      "position": {
+        "lat": "50.96009759527548",
+        "lng": "32.01954718900292"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Kremenets",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-10-04T05:54:54.584Z",
+      "notes": "",
+      "position": {
+        "lat": "49.953417488189544",
+        "lng": "25.62067173498929"
+      },
+      "id": 98443202
+    }
+  ]
+}
